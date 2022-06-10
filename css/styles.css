@@ -522,6 +522,7 @@ body {
   justify-content: center;
   align-items: center;
   position: absolute;
+  cursor: pointer;
   top: 8px;
   right: 8px;
   width: 30px;
